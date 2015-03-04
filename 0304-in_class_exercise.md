@@ -23,4 +23,4 @@
 3. The recruiter enthusiastically shook Joe's hand after he decided to join the navy.
 4. A skeleton caught my attention upon entering the doctor's office
 5. Some fireworks were set off a day early to please the children.
-6. Though only sixteen, UCLA accepted Martha's application.
+6. UCLA accepted Martha's application even though she is only 16.
