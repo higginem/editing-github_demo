@@ -21,6 +21,6 @@
 1. When the driver opened the window to let out a huge bumblbee, the car swerved. 
 2. After completing seminary training, women have often been denied acces to the pulpit.
 3. The recruiter enthusiastically shook Joe's hand after he decided to join the navy.
-4. A skeleton caught my attention upon entering the doctor's office
-5. Some fireworks were set off a day early to please the children.
-6. UCLA accepted Martha's application even though she is only 16.
+4. Upon entering the doctor's office, I noticed a skeleton.
+5. To please the children, we set off some fireworks a day early.
+6. Though Martha was only sixteen years old, UCLA accepted her application.
